@@ -1,0 +1,7 @@
+.bg-main {
+    background: linear-gradient(#020024, #090979);
+}
+
+.box-shadow-nav{
+    box-shadow: -100px 100px 10px grey;
+}

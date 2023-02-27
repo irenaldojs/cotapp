@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "agreste@agreste.com",
+      "password": "agreste123@",
+      "id": 1
+    },
+    {
+      "email": "irenaldojs@gmail.com",
+      "password": "240685Mudar",
+      "id": 2
+    }
+  ]
+}
